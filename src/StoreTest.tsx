@@ -1,5 +1,5 @@
 import BoardAPI from "@apis/board";
-import { useStore } from "@context/testStore";
+import { useStore } from "@stores/testStore";
 import { useEffect, useState } from "react";
 
 const StoreTest = () => {
