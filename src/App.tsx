@@ -1,5 +1,5 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import StoreTest from "./stores/testStore.tsx";
+import StoreTest from "./StoreTest.tsx";
 import { CookiesProvider } from "react-cookie";
 import GlobalStyles from "@styles/globalStyles.ts";
 import { ThemeProvider } from "styled-components";
